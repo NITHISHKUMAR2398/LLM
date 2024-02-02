@@ -48,7 +48,7 @@ def table_to_text():
     table_data_str = df.to_string(index=False)
 
     # Provide a prompt for the language model
-    prompt = f"describe the table in 10 lines\n{table_data_str}"
+    prompt = f"summarize the table in 10 lines\n{table_data_str}"
 
     # Use the same model "mistral" for table-to-text generation
     data = {
@@ -64,5 +64,33 @@ def table_to_text():
     else:
         return jsonify({"error": f"Request failed with status code {response.status_code}"})
 
+
+# New route for generating MCQs
+@app.route('/generate_mcqs', methods=['GET'])
+def generate_mcqs():
+    # Read Excel file into a pandas DataFrame
+    df = pd.read_excel(excel_file_path)
+
+    # Convert DataFrame to a formatted text
+    table_data_str = df.to_string(index=False)
+
+    # Provide a prompt for the language model
+    prompt = f"generate MCQ with 4 options and one ofthem is correct based on the text generated from table\n{table_data_str}"
+
+    # Use the same model "mistral" for MCQ generation
+    data = {
+        "model": "mistral",
+        "prompt": prompt,
+        "stream": False
+    }
+    response = requests.post(url_generate, json=data)
+
+    if response.status_code == 200:
+        return response.text
+    else:
+        return jsonify({"error": f"Request failed with status code {response.status_code}"})
+
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, port=5001)
+
+
