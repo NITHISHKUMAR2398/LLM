@@ -3,6 +3,7 @@ import requests
 import pandas as pd
 import os
 import app as text
+import json
 
 class ExtractTasks:
     def __init__(self):
@@ -31,7 +32,7 @@ class TableToText:
         df = pd.read_excel(excel_file_path)
         table_data_str = df.to_string(index=False)
 
-        prompt = f"describe the table in 10 lines without losing much information\n{table_data_str}"
+        prompt = f"analyse the data in the table in few lines of information\n{table_data_str}"
 
         data = {
             "model": "mistral",
@@ -55,7 +56,7 @@ class GenerateMCQs:
         df = pd.read_excel(excel_file_path)
         table_data_str = df.to_string(index=False)
 
-        prompt = f"generate two MCQ with 4 options out of which 1 is corect\n{table_data_str}"
+        prompt = f"Generate 2  multiple choice questions by analysing this table data:\n{table_data_str}"
 
         data = {
             "model": "mistral",
@@ -65,7 +66,7 @@ class GenerateMCQs:
         response = requests.post(self.url_generate, json=data)
 
         if response.status_code == 200:
-            return response.text
+            return json.load(response.text)['response']
         else:
             return jsonify({"error": f"Request failed with status code {response.status_code}"})
 
