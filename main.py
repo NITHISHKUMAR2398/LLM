@@ -56,7 +56,7 @@ class GenerateMCQs:
         df = pd.read_excel(excel_file_path)
         table_data_str = df.to_string(index=False)
 
-        prompt = f"Generate 2  multiple choice questions by analysing this table data:\n{table_data_str}"
+        prompt = f"Generate 2  multiple choice questions with 4 options for each multiple choice by analysing this data present in the table:\n{table_data_str}"
 
         data = {
             "model": "mistral",
@@ -66,7 +66,7 @@ class GenerateMCQs:
         response = requests.post(self.url_generate, json=data)
 
         if response.status_code == 200:
-            return json.load(response.text)['response']
+            return json.loads(response.text)['response']
         else:
             return jsonify({"error": f"Request failed with status code {response.status_code}"})
 
