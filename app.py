@@ -13,7 +13,7 @@ class ExtractTasks:
         convo = text.processed_text
         data = {
             "model": "mistral",
-            "prompt": f"Extract tasks from the conversation\n{convo}",
+            "prompt": f"Extract action tasks from the conversation\n{convo}",
             "stream": False
         }
         response = requests.post(self.url_generate, json=data)
@@ -29,11 +29,11 @@ class TableToText:
         self.url_table_to_text = "http://localhost:11434/api/generate"
 
     def table_to_text(self):
-        excel_file_path = '/Users/nithish/Documents/dotzza-feature/sample_XLSX_100.xlsx'
+        excel_file_path = '/Users/nithish/Desktop/dotzza-feature/Sample (1).xlsx'
         df = pd.read_excel(excel_file_path)
-        table_data_str = df.to_string(index=False)
+        table_data_str = df.to_string(index=False, header=True)
 
-        prompt = f"analyse the data in the table in few lines of information\n{table_data_str}"
+        prompt = f"Provide a detailed description of the data in the table in 30 lines\n{table_data_str}"
 
         data = {
             "model": "mistral",
@@ -53,7 +53,7 @@ class GenerateMCQs:
         self.url_generate = "http://localhost:11434/api/generate"
 
     def generate_mcqs(self):
-        excel_file_path = '/Users/nithish/Documents/dotzza-feature/sample_XLSX_100.xlsx'
+        excel_file_path = '/Users/nithish/Desktop/dotzza-feature/Sample (1).xlsx'
         df = pd.read_excel(excel_file_path)
         table_data_str = df.to_string(index=False)
 
