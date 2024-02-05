@@ -57,7 +57,11 @@ class GenerateMCQs:
         df = pd.read_excel(excel_file_path)
         table_data_str = df.to_string(index=False)
 
-        prompt = f"Generate two simple multiple choice questions with 4 options without mentioning numbers out of which 1 is correct answer from the data :\n{table_data_str}"
+        prompt = f"Generate a simple Multiple choice question with  4 options and 1 correct option by analyzing the table data in this below format: (question)\n\
+            1) Option-1\n\
+            2) Option 2\n\
+            3) Option-3\n\
+            4) Option-4 :\n{table_data_str}"
 
         data = {
             "model": "mistral",
