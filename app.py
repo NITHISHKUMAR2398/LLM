@@ -1,13 +1,16 @@
+import main as text
 from flask import Flask, jsonify
 import requests
 import pandas as pd
 import os
-import main as text
 import json
+from config import Config
+
+app = Flask(__name__)
 
 class ExtractTasks:
     def __init__(self):
-        self.url_generate = "http://localhost:11434/api/generate"
+        self.url_generate = Config.URL_GENERATE
 
     def extract_tasks(self):
         convo = text.processed_text
@@ -20,16 +23,15 @@ class ExtractTasks:
 
         if response.status_code == 200:
             return json.loads(response.text)['response']
-           
         else:
             return jsonify({"error": f"Request failed with status code {response.status_code}"})
 
 class TableToText:
     def __init__(self):
-        self.url_table_to_text = "http://localhost:11434/api/generate"
+        self.url_table_to_text = Config.URL_GENERATE
 
     def table_to_text(self):
-        excel_file_path = '/Users/nithish/Desktop/dotzza-feature/Sample (1).xlsx'
+        excel_file_path = Config.EXCEL_FILE_PATH
         df = pd.read_excel(excel_file_path)
         table_data_str = df.to_string(index=False, header=True)
 
@@ -50,10 +52,10 @@ class TableToText:
 
 class GenerateMCQs:
     def __init__(self):
-        self.url_generate = "http://localhost:11434/api/generate"
+        self.url_generate = Config.URL_GENERATE
 
     def generate_mcqs(self):
-        excel_file_path = '/Users/nithish/Desktop/dotzza-feature/Sample (1).xlsx'
+        excel_file_path = Config.EXCEL_FILE_PATH
         df = pd.read_excel(excel_file_path)
         table_data_str = df.to_string(index=False)
 
@@ -75,7 +77,6 @@ class GenerateMCQs:
         else:
             return jsonify({"error": f"Request failed with status code {response.status_code}"})
 
-app = Flask(__name__)
 extract_tasks_obj = ExtractTasks()
 table_to_text_obj = TableToText()
 generate_mcqs_obj = GenerateMCQs()
