@@ -1,4 +1,5 @@
 input_text = """
+
 Dr.Chokkalingam:
 
 Hi
@@ -11,7 +12,7 @@ yes please could you call Dr. Karthikeyan
 
 i think we should retrieve some journals regarding oral health prevalence among Asian countries
 
-Dr.Chokkalingam:
+Dr.Chokkalingam
 
 yep, we should not stop with Asian countries alone, we should also look for Oceania region for further research
 
@@ -45,7 +46,6 @@ no worries i already have the premium version of chatgpt
 
 Dr.Chokkalingam:
 
-Ok. Google lists the following books: Oral Epidemiology: A Textbook on Oral Health Conditions, Research Topics and Methods (Textbooks in Contemporary Dentistry) Hardcover – 20 October 2020. I find it a good read , i will order this book in amazon 
-
+Ok. Google lists the following books: Oral Epidemiology: A Textbook on Oral Health Conditions, Research Topics and Methods (Textbooks in Contemporary Dentistry) Hardcover – 20 October 2020. I find it a good read , i will order this book in amazon
 
 """
