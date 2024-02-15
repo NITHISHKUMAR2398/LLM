@@ -19,11 +19,11 @@ class ExtractTasks:
             "prompt": f"Extract action tasks from the given conversation in the below format and add html break tags for each step: \n\
             Based on the conversation, here are the action tasks that can be extracted:\n\
                 \n\
-                1. Call Dr. Karthikeyan regarding the chart to be discussed. \n\
-                2. Retrieve journals regarding oral health prevalence among Asian countries. \n\
-                3. Look for oral health prevalence research in Oceania region. \n\
-                4. Search for other books and documents on oral diseases worldwide.\n\
-                5. Check for documentaries on oral health in Netflix.{convo}",
+                1. ....................... \n\
+                2. .........................\n\
+                3. .......................... \n\
+                4. ............................\n\
+                5. ..............................{convo}",
             "stream": False
         }
         response = requests.post(self.url_generate, json=data)
@@ -43,7 +43,7 @@ class TableToText:
         df = pd.read_excel(excel_file_path)
         table_data_str = df.to_string(index=False, header=True)
 
-        prompt = f"Consider all the rows in the table and provide me a detailed description.\n{table_data_str}"
+        prompt = f"Consider all the rows and columns in the table and provide me a detailed description in 30 lines.\n{table_data_str}"
 
         data = {
             "model": "mistral",
@@ -67,11 +67,15 @@ class GenerateMCQs:
         df = pd.read_excel(excel_file_path)
         table_data_str = df.to_string(index=False)
 
-        prompt = f"Generate three simple Multiple choice question with  4 options and 1 correct option by analyzing the table data in this below format: (question)\n\
-            1) Option-1\n\
-            2) Option 2\n\
-            3) Option-3\n\
-            4) Option-4 :\n{table_data_str}"
+        prompt = f"Generate three random Multiple choice question with 4 options and 1 correct option by analyzing the  data in the below format (question :) \n\
+            and add html break tags for each question ,answers: \n\
+            Based on the conversation, here are the MCQ that can be extracted:\n\
+            1) ...............\n\
+            2) ...............\n\
+            3) .................\n\
+            4) .................. :\n\
+            answer:......\n\
+            {table_data_str}"
 
         data = {
             "model": "mistral",
@@ -81,6 +85,7 @@ class GenerateMCQs:
         response = requests.post(self.url_generate, json=data)
 
         if response.status_code == 200:
+            print(json.loads(response.text)['response'])
             return json.loads(response.text)['response']
         else:
             return jsonify({"error": f"Request failed with status code {response.status_code}"})
