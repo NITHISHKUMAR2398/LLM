@@ -16,14 +16,14 @@ class ExtractTasks:
         convo = text.processed_text
         data = {
             "model": "mistral",
-            "prompt": f"Extract action tasks from the given conversation in the below format and add html break tags for each step: \n\
+            "prompt": f"Extract action tasks from the given conversation in the below format and add html break tags for each task: \n\
             Based on the conversation, here are the action tasks that can be extracted:\n\
                 \n\
                 1. ....................... \n\
                 2. .........................\n\
                 3. .......................... \n\
                 4. ............................\n\
-                5. ..............................{convo}",
+                5. .............................{convo}",
             "stream": False
         }
         response = requests.post(self.url_generate, json=data)
@@ -43,7 +43,7 @@ class TableToText:
         df = pd.read_excel(excel_file_path)
         table_data_str = df.to_string(index=False, header=True)
 
-        prompt = f"Consider all the rows and columns in the table and provide me a detailed description in 30 lines.\n{table_data_str}"
+        prompt = f"Consider all the rows and columns in the table and provide me a detailed description in a paragraphs.\n{table_data_str}"
 
         data = {
             "model": "mistral",
@@ -67,15 +67,16 @@ class GenerateMCQs:
         df = pd.read_excel(excel_file_path)
         table_data_str = df.to_string(index=False)
 
-        prompt = f"Generate three random Multiple choice question with 4 options and 1 correct option by analyzing the  data in the below format (question :) \n\
-            and add html break tags for each question ,answers: \n\
-            Based on the conversation, here are the MCQ that can be extracted:\n\
-            1) ...............\n\
-            2) ...............\n\
-            3) .................\n\
-            4) .................. :\n\
-            answer:......\n\
-            {table_data_str}"
+        prompt = f"Generate 5 random Multiple choice question with 4 options and display it out of which 1 is the  correct option by analyzing the  data in the below format: \n\
+            and add html break tags for each question and answer\n\
+            Question 1:<br>\n\
+            1) ........<br>\n\
+            2) .........<br>\n\
+            3) ..........<br>\n\
+            4) ...........<br>\n\
+            answer : <br>\n\{table_data_str}"
+            
+            
 
         data = {
             "model": "mistral",
