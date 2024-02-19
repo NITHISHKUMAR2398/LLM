@@ -14,27 +14,32 @@ class ExtractTasks:
 
     def extract_tasks(self):
         convo = text.processed_text
+
         data = {
-            "model": "mistral",
-             "stream": False,
-             "prompt": f"Extract action tasks from the given conversation in the below format and add html break tags for each task:\n\
-                Based on the conversation, here are the action tasks that can be extracted,\n\
-                Here is an example for you: Print the output in a similar way\n\
-                    1. Call Dr. Karthikeyan about the chart to be discussed.\n\
-                    2. Check for documentaries on oral health in Netflix.\n\
-                    3. Look for Oceania region in addition to Asian countries for further research.\n\
-                    4. Prepare things by next Tuesday.\n\
-                {convo}"
-}
+            "model": "mistral",  # The model name (presumably for generating responses)
+            "stream": False,  # Indicates whether to stream the response (set to False)
+            "prompt": f"Extract action tasks from the given conversation in the below format and add html break tags for each task:\n\
+                        Based on the conversation, here are the action tasks that can be extracted:\n\
+                        Here is an example for you: Print the output in a similar way:<br>\n\
+                        1: Call Dr.Karthikeyan about the chart to be discussed.\n\
+                        2: Check for documentaries on oral health in Netflix.\n\
+                        3: Look for Oceania region in addition to Asian countries for further research.\n\
+                        4: Prepare things by next Tuesday.\n\
+                        {convo}"
+
+                            
+        }
 
         response = requests.post(self.url_generate, json=data)
-
+        
         if response.status_code == 200:
             print(json.loads(response.text)['response'])
             return json.loads(response.text)['response']
         else:
+            # Return an error message if the request failed
             return jsonify({"error": f"Request failed with status code {response.status_code}"})
-
+        
+    
 class TableToText:
     def __init__(self):
         self.url_table_to_text = Config.URL_GENERATE
@@ -44,14 +49,36 @@ class TableToText:
         df = pd.read_excel(excel_file_path)
         table_data_str = df.to_string(index=False, header=True)
 
-        prompt = f"Consider all the rows and columns in the table and provide me a detailed description of the sheet in two separate paragraphs.\n\
-                              Based on the table data provided, here are some key points to include:\n\
-                              1. Describe the overall structure of the table.\n\
-                              2. Highlight any trends or patterns you observe in the data.\n\
-                              3. Identify any outliers or unusual data points.\n\
-                              4. Discuss any correlations between different columns.\n\
-                              5. Provide insights or conclusions drawn from the data.\n\
-                              {table_data_str}"
+        prompt = f"Consider all the rows and columns in the table and provide me a detailed description of the sheet in paragraph.\n\
+                   Based on the table data provided, here are some key points to include:\n\
+                        1. Describe the overall structure of the table.\n\
+                        2. Highlight any trends or patterns you observe in the data.\n\
+                        3. Identify any outliers or unusual data points.\n\
+                        4. Discuss any correlations between different columns.\n\
+                        5. Provide insights or conclusions drawn from the data.\n\
+            Here is an example below :\n\
+          **Paragraph 1:**\n\
+            Large Language Models (LLMs) represent a significant advancement in the field of natural language processing (NLP).\n\
+            These models, such as GPT-3 developed by OpenAI, are trained on vast amounts of text data and have the capability to generate human-like text in\n\
+            response to prompts or queries. LLMs employ deep learning techniques, particularly transformer architectures,\n\
+            which allow them to understand and generate text with remarkable accuracy and coherence. With their\n\
+            immense size and complexity, LLMs can comprehend and produce text across a wide range of topics and\n\
+            writing styles. Their versatility and ability to adapt to different tasks make them invaluable tools\n\
+            for various applications, including content generation, language translation, and conversational agents.\n\
+          \n\
+           \n\
+            \n\
+          **Paragraph 2:**\n\
+            The development and deployment of Large Language Models (LLMs) have sparked both excitement and debate within the\n\
+            scientific community and society at large. On one hand, LLMs represent a remarkable achievement in\n\
+            artificial intelligence, pushing the boundaries of what machines can accomplish in understanding and\n\
+            generating human language. Their potential applications in areas such as education, healthcare, and\n\
+            creative writing hold promise for improving efficiency and enhancing human experiences. However,\n\
+            concerns have been raised regarding the ethical implications and potential risks associated with LLMs,\n\
+            including biases in the training data, misinformation propagation, and job displacement. As researchers\n\
+            and policymakers grapple with these challenges, it is crucial to ensure responsible development and\n\
+            deployment of LLMs to harness their benefits while mitigating potential harms.\n\
+            {table_data_str}"
 
 
         data = {
