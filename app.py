@@ -16,16 +16,17 @@ class ExtractTasks:
         convo = text.processed_text
         data = {
             "model": "mistral",
-            "prompt": f"Extract action tasks from the given conversation in the below format and add html break tags for each task: \n\
-            Based on the conversation, here are the action tasks that can be extracted:\n\
-                \n\
-                1. ....................... \n\
-                2. .........................\n\
-                3. .......................... \n\
-                4. ............................\n\
-                5. .............................{convo}",
-            "stream": False
-        }
+             "stream": False,
+             "prompt": f"Extract action tasks from the given conversation in the below format and add html break tags for each task:\n\
+                Based on the conversation, here are the action tasks that can be extracted,\n\
+                Here is an example for you: Print the output in a similar way\n\
+                    1. Call Dr. Karthikeyan about the chart to be discussed.\n\
+                    2. Check for documentaries on oral health in Netflix.\n\
+                    3. Look for Oceania region in addition to Asian countries for further research.\n\
+                    4. Prepare things by next Tuesday.\n\
+                {convo}"
+}
+
         response = requests.post(self.url_generate, json=data)
 
         if response.status_code == 200:
@@ -43,7 +44,15 @@ class TableToText:
         df = pd.read_excel(excel_file_path)
         table_data_str = df.to_string(index=False, header=True)
 
-        prompt = f"Consider all the rows and columns in the table and provide me a detailed description in a paragraphs.\n{table_data_str}"
+        prompt = f"Consider all the rows and columns in the table and provide me a detailed description of the sheet in two separate paragraphs.\n\
+                              Based on the table data provided, here are some key points to include:\n\
+                              1. Describe the overall structure of the table.\n\
+                              2. Highlight any trends or patterns you observe in the data.\n\
+                              3. Identify any outliers or unusual data points.\n\
+                              4. Discuss any correlations between different columns.\n\
+                              5. Provide insights or conclusions drawn from the data.\n\
+                              {table_data_str}"
+
 
         data = {
             "model": "mistral",
@@ -67,14 +76,16 @@ class GenerateMCQs:
         df = pd.read_excel(excel_file_path)
         table_data_str = df.to_string(index=False)
 
-        prompt = f"Generate 5 random Multiple choice question with 4 options and display it out of which 1 is the  correct option by analyzing the  data in the below format: \n\
-            and add html break tags for each question and answer\n\
+        prompt = f"Generate 5 random Multiple choice question with 4 options and display it out of which 1 is the correct option with reason by analyzing the  data in the below format: \n\
+            and add html break tags for each question and answer. Here is an example for you.\n\
             Question 1:<br>\n\
-            1) ........<br>\n\
-            2) .........<br>\n\
-            3) ..........<br>\n\
-            4) ...........<br>\n\
-            answer : <br>\n\{table_data_str}"
+            Which country has the highest hourly wage? <br>\n\
+            A) Czech Republic <br>\n\
+            B) Denmark<br>\n\
+            C) Switzerland<br>\n\
+            D) Hungary<br>\n\
+               answer : Switzerland (The new hourly wage for the Switzerland is the highest in this data set.)<br>\n\
+                {table_data_str}"
             
             
 
