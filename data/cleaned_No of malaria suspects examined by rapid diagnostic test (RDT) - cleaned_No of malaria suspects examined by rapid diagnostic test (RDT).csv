@@ -1,0 +1,990 @@
+Indicator_Code,Indicator,ValueType,Parent_Location_Code,ParentLocation,Location_Type,Location_Code,Location,Period_Type,Period,Is_Latest_Year,Suspects_Examined_RDT,Formatted_Value,Language,DateModified,Region
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2021,1,1056085,1 056 085,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2021,1,1100260,1 100 260,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2021,1,1320853,1 320 853,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TCD,Chad,Year,2021,1,1788058,1 788 058,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2021,1,1919075,1 919 075,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2021,1,104636,104 636,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2021,1,114477,114 477,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2021,1,12383,12 383,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2021,1,122955,122 955,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MWI,Malawi,Year,2021,1,13075023,13 075 023,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZMB,Zambia,Year,2021,1,13120677,13 120 677,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HND,Honduras,Year,2021,1,14609,14 609,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PRY,Paraguay,Year,2021,1,153,153,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2021,1,156757,156 757,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2021,1,159635,159 635,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,SUR,Suriname,Year,2021,1,16513,16 513,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2021,1,16768,16 768,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2021,1,16879527,16 879 527,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,COL,Colombia,Year,2021,1,16905,16 905,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2021,1,168434,168 434,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PAN,Panama,Year,2021,1,17239,17 239,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2021,1,18393265,18 393 265,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HTI,Haiti,Year,2021,1,180751,180 751,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2021,1,19210871,19 210 871,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COG,Congo,Year,2021,1,197080,197 080,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TGO,Togo,Year,2021,1,2332983,2 332 983,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2021,1,2401385,2 401 385,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2021,1,2504262,2 504 262,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SEN,Senegal,Year,2021,1,2605654,2 605 654,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SSD,South Sudan,Year,2021,1,2606089,2 606 089,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2021,1,2947058,2 947 058,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,UGA,Uganda,Year,2021,1,20210666,20 210 666,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2021,1,212908,212 908,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2021,1,218230,218 230,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2021,1,23184,23 184,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2021,1,24514099,24 514 099,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2021,1,244413,244 413,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2021,1,25025,25 025,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2021,1,257626,257 626,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IND,India,Year,2021,1,26440073,26 440 073,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,GUY,Guyana,Year,2021,1,26622,26 622,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2021,1,26740915,26 740 915,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2021,1,26839,26 839,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NAM,Namibia,Year,2021,1,263202,263 202,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2021,1,298929,298 929,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CMR,Cameroon,Year,2021,1,3335377,3 335 377,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BEN,Benin,Year,2021,1,3371041,3 371 041,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2021,1,3556423,3 556 423,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MLI,Mali,Year,2021,1,3778046,3 778 046,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GIN,Guinea,Year,2021,1,3879319,3 879 319,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,ECU,Ecuador,Year,2021,1,35294,35 294,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GAB,Gabon,Year,2021,1,38736,38 736,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2021,1,4571944,4 571 944,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2021,1,4279,4279,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2021,1,433195,433 195,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2021,1,4575,4575,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COM,Comoros,Year,2021,1,48157,48 157,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2021,1,49972,49 972,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GMB,Gambia,Year,2021,1,496330,496 330,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NER,Niger,Year,2021,1,5624653,5 624 653,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,KEN,Kenya,Year,2021,1,5816987,5 816 987,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2021,1,580488,580 488,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2021,1,640609,640 609,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2021,1,6642,6642,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2021,1,7197967,7 197 967,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BLZ,Belize,Year,2021,1,7278,7278,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2021,1,736957,736 957,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GHA,Ghana,Year,2021,1,8057955,8 057 955,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,AGO,Angola,Year,2021,1,8117947,8 117 947,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2021,1,828141,828 141,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BDI,Burundi,Year,2021,1,9593269,9 593 269,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2021,1,904833,904 833,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2021,1,93613,93 613,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2021,1,94,94,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BRA,Brazil,Year,2021,1,95419,95 419,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,LBR,Liberia,Year,2021,1,957931,957 931,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BWA,Botswana,Year,2021,1,9825,9825,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZAF,South Africa,Year,2021,1,99066,99 066,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2020,0,1212527,1 212 527,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2020,0,1356392,1 356 392,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2020,0,1356433,1 356 433,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TCD,Chad,Year,2020,0,1873598,1 873 598,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2020,0,10005,10 005,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HND,Honduras,Year,2020,0,10350,10 350,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2020,0,103614,103 614,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZAF,South Africa,Year,2020,0,11982,11 982,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BLZ,Belize,Year,2020,0,114,114,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MWI,Malawi,Year,2020,0,12439185,12 439 185,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2020,0,127228,127 228,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2020,0,13680757,13 680 757,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2020,0,132072,132 072,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,SUR,Suriname,Year,2020,0,14043,14 043,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZMB,Zambia,Year,2020,0,14513049,14 513 049,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,GTM,Guatemala,Year,2020,1,16000,16 000,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2020,0,160182,160 182,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2020,0,165100,165 100,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2020,0,18209905,18 209 905,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2020,0,19932,19 932,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2020,0,2181204,2 181 204,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SEN,Senegal,Year,2020,0,2185530,2 185 530,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CMR,Cameroon,Year,2020,0,2840269,2 840 269,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MLI,Mali,Year,2020,0,2927529,2 927 529,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2020,0,20620288,20 620 288,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2020,0,21030081,21 030 081,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,UGA,Uganda,Year,2020,0,22004158,22 004 158,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HTI,Haiti,Year,2020,0,226374,226 374,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IND,India,Year,2020,0,23882706,23 882 706,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2020,0,241982,241 982,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PRY,Paraguay,Year,2020,0,25,25,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2020,0,25276,25 276,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NAM,Namibia,Year,2020,0,258145,258 145,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2020,0,26421,26 421,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2020,0,268147,268 147,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,GUY,Guyana,Year,2020,0,27116,27 116,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2020,0,27748,27 748,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2020,0,28054832,28 054 832,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SSD,South Sudan,Year,2020,0,280150,280 150,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BEN,Benin,Year,2020,0,3086562,3 086 562,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GIN,Guinea,Year,2020,0,3205353,3 205 353,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2020,0,3564489,3 564 489,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2020,0,3627732,3 627 732,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2020,0,3698659,3 698 659,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2020,0,3798824,3 798 824,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2020,0,337965,337 965,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GMB,Gambia,Year,2020,0,338547,338 547,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2020,1,354097,354 097,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2020,0,3647,3647,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,ECU,Ecuador,Year,2020,0,383,383,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2020,0,389994,389 994,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2020,0,399076,399 076,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,KEN,Kenya,Year,2020,0,4179731,4 179 731,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2020,0,4837781,4 837 781,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COM,Comoros,Year,2020,0,42340,42 340,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2020,0,4399,4399,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2020,0,450541,450 541,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GAB,Gabon,Year,2020,0,48330,48 330,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2020,0,488069,488 069,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NER,Niger,Year,2020,0,5915007,5 915 007,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2020,0,516167,516 167,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2020,0,53371,53 371,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COG,Congo,Year,2020,0,53998,53 998,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2020,0,532088,532 088,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2020,1,56397,56 397,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BDI,Burundi,Year,2020,0,6772641,6 772 641,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GHA,Ghana,Year,2020,0,6847836,6 847 836,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BRA,Brazil,Year,2020,0,69273,69 273,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2020,0,69884,69 884,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,AGO,Angola,Year,2020,0,7456619,7 456 619,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2020,0,7570,7570,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2020,0,769844,769 844,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PAN,Panama,Year,2020,0,7782,7782,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2020,0,805166,805 166,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2020,0,83952,83 952,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BWA,Botswana,Year,2020,0,9148,9148,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2020,0,929551,929 551,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,COL,Colombia,Year,2020,0,9663,9663,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2019,0,1027264,1 027 264,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2019,0,1118706,1 118 706,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2019,0,1206938,1 206 938,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2019,0,1297197,1 297 197,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SEN,Senegal,Year,2019,0,1994504,1 994 504,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZMB,Zambia,Year,2019,0,10852416,10 852 416,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MWI,Malawi,Year,2019,0,10861320,10 861 320,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2019,0,101002,101 002,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2019,0,101803,101 803,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2019,0,11318,11 318,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,COL,Colombia,Year,2019,0,11935,11 935,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BDI,Burundi,Year,2019,0,12331431,12 331 431,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2019,0,131631,131 631,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BWA,Botswana,Year,2019,0,15857,15 857,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2019,0,15997219,15 997 219,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,MEX,Mexico,Year,2019,1,161,161,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2019,0,172287,172 287,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2019,0,178705,178 705,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,GUY,Guyana,Year,2019,0,18100,18 100,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HND,Honduras,Year,2019,0,18754,18 754,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2019,0,18861368,18 861 368,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2019,0,19432,19 432,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,UGA,Uganda,Year,2019,0,19454545,19 454 545,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2019,0,19465040,19 465 040,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2019,0,198136,198 136,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TCD,Chad,Year,2019,0,2260256,2 260 256,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2019,0,2685182,2 685 182,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CMR,Cameroon,Year,2019,0,2716410,2 716 410,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2019,0,2781622,2 781 622,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IND,India,Year,2019,0,20260564,20 260 564,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2019,0,20745,20 745,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2019,1,2009,2009,EN,2023-05-09T18:30:00.000Z,Europe
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2019,0,214101,214 101,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2019,0,217129,217 129,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2019,0,22621211,22 621 211,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HTI,Haiti,Year,2019,0,231531,231 531,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2019,0,26963687,26 963 687,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2019,1,27445,27 445,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2019,0,28063,28 063,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NAM,Namibia,Year,2019,0,295367,295 367,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TGO,Togo,Year,2019,0,3038746,3 038 746,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SSD,South Sudan,Year,2019,0,3092697,3 092 697,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2019,0,3302307,3 302 307,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BEN,Benin,Year,2019,0,3338134,3 338 134,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GIN,Guinea,Year,2019,0,3498748,3 498 748,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2019,0,3666973,3 666 973,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2019,0,3990491,3 990 491,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2019,1,33246,33 246,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2019,0,332935,332 935,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2019,0,336007,336 007,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2019,1,341365,341 365,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2019,0,35407,35 407,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2019,0,391459,391 459,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PAN,Panama,Year,2019,0,3954,3954,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MLI,Mali,Year,2019,0,4252425,4 252 425,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2019,0,4252681,4 252 681,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2019,0,439263,439 263,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2019,0,446293,446 293,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GMB,Gambia,Year,2019,0,452362,452 362,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2019,0,458743,458 743,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COM,Comoros,Year,2019,0,46172,46 172,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GAB,Gabon,Year,2019,0,47712,47 712,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NER,Niger,Year,2019,0,5279843,5 279 843,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2019,0,504431,504 431,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BRA,Brazil,Year,2019,0,51370,51 370,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,KEN,Kenya,Year,2019,0,514579,514 579,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2019,0,55000,55 000,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2019,0,557045,557 045,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2019,0,592079,592 079,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2019,0,6152962,6 152 962,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,GTM,Guatemala,Year,2019,0,61275,61 275,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,SUR,Suriname,Year,2019,0,7041,7041,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2019,0,756573,756 573,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2019,0,7867,7867,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PRY,Paraguay,Year,2019,0,79,79,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,AGO,Angola,Year,2019,0,8221926,8 221 926,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GHA,Ghana,Year,2019,0,8383708,8 383 708,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2019,0,80160,80 160,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2019,0,94,94,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,LBR,Liberia,Year,2019,0,960057,960 057,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,SLV,El Salvador,Year,2018,1,1,1,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2018,0,1113247,1 113 247,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2018,0,1181578,1 181 578,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2018,0,1290621,1 290 621,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TCD,Chad,Year,2018,0,1751483,1 751 483,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SSD,South Sudan,Year,2018,0,1805912,1 805 912,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2018,0,104800,104 800,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MWI,Malawi,Year,2018,0,11384109,11 384 109,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2018,0,113720,113 720,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PAN,Panama,Year,2018,0,1141,1141,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,UGA,Uganda,Year,2018,0,12741670,12 741 670,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2018,0,13061136,13 061 136,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BWA,Botswana,Year,2018,0,13107,13 107,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,COL,Colombia,Year,2018,0,13252,13 252,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IND,India,Year,2018,0,13489707,13 489 707,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2018,0,142115,142 115,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2018,0,144061,144 061,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2018,0,156697,156 697,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2018,0,16847537,16 847 537,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PER,Peru,Year,2018,1,160000,160 000,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2018,0,18018372,18 018 372,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2018,0,181336,181 336,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2018,0,19603825,19 603 825,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2018,0,198173,198 173,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SEN,Senegal,Year,2018,0,2077442,2 077 442,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2018,0,2207613,2 207 613,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BEN,Benin,Year,2018,0,2251418,2 251 418,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2018,0,2290797,2 290 797,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GIN,Guinea,Year,2018,0,2445164,2 445 164,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TGO,Togo,Year,2018,0,2563396,2 563 396,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2018,0,2827417,2 827 417,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2018,0,20671006,20 671 006,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2018,0,20827,20 827,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2018,0,20996,20 996,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2018,0,239461,239 461,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COM,Comoros,Year,2018,0,24567,24 567,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HTI,Haiti,Year,2018,0,253001,253 001,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2018,0,253211,253 211,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2018,0,284654,284 654,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MLI,Mali,Year,2018,0,3019364,3 019 364,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CMR,Cameroon,Year,2018,0,3085689,3 085 689,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2018,0,3125632,3 125 632,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HND,Honduras,Year,2018,0,31556,31 556,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2018,0,320217,320 217,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2018,0,321495,321 495,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2018,0,33174,33 174,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2018,0,378068,378 068,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NAM,Namibia,Year,2018,0,394822,394 822,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2018,0,4164969,4 164 969,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NER,Niger,Year,2018,0,4285516,4 285 516,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2018,0,41218,41 218,EN,2023-05-09T18:30:00.000Z,Europe
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2018,0,42425,42 425,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2018,0,44905,44 905,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BRA,Brazil,Year,2018,0,46221,46 221,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2018,0,492270,492 270,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,AGO,Angola,Year,2018,0,5025981,5 025 981,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2018,0,5042040,5 042 040,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,KEN,Kenya,Year,2018,0,5594916,5 594 916,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2018,0,500440,500 440,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2018,0,524149,524 149,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GMB,Gambia,Year,2018,0,533994,533 994,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,GUY,Guyana,Year,2018,0,5360,5360,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GHA,Ghana,Year,2018,0,6660205,6 660 205,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2018,0,64061,64 061,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2018,0,657050,657 050,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2018,0,67942,67 942,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,ECU,Ecuador,Year,2018,0,6782,6782,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BDI,Burundi,Year,2018,0,7009165,7 009 165,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2018,0,700,700,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GAB,Gabon,Year,2018,0,71787,71 787,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,GTM,Guatemala,Year,2018,0,75300,75 300,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2018,0,75889,75 889,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,SUR,Suriname,Year,2018,0,8037,8037,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2018,0,8759,8759,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZMB,Zambia,Year,2018,0,9718666,9 718 666,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2018,0,93378,93 378,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2018,0,967566,967 566,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,LBR,Liberia,Year,2017,0,1045323,1 045 323,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TCD,Chad,Year,2017,0,1359070,1 359 070,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2017,0,1533030,1 533 030,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2017,0,1821139,1 821 139,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GHA,Ghana,Year,2017,0,10105400,10 105 400,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZMB,Zambia,Year,2017,0,10403283,10 403 283,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2017,0,115008,115 008,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2017,0,118022,118 022,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2017,0,12980360,12 980 360,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PRY,Paraguay,Year,2017,0,1267,1267,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2017,0,129291,129 291,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PER,Peru,Year,2017,0,13924,13 924,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2017,0,133560,133 560,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2017,0,15043,15 043,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IND,India,Year,2017,0,15208057,15 208 057,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2017,0,15675711,15 675 711,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2017,0,151328,151 328,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2017,0,16573,16 573,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,UGA,Uganda,Year,2017,0,16803712,16 803 712,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2017,0,16919717,16 919 717,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2017,0,17144755,17 144 755,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,GTM,Guatemala,Year,2017,0,170325,170 325,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2017,0,172499,172 499,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GAB,Gabon,Year,2017,0,18877,18 877,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SEN,Senegal,Year,2017,0,2011383,2 011 383,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SSD,South Sudan,Year,2017,0,2024503,2 024 503,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GIN,Guinea,Year,2017,0,2035460,2 035 460,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TGO,Togo,Year,2017,0,2265320,2 265 320,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2017,0,2397849,2 397 849,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BEN,Benin,Year,2017,0,2403344,2 403 344,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2017,0,2834261,2 834 261,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,AGO,Angola,Year,2017,0,2931055,2 931 055,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,GUY,Guyana,Year,2017,0,203,203,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2017,0,21117823,21 117 823,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2017,0,226894,226 894,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2017,0,227335,227 335,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2017,0,24965,24 965,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HND,Honduras,Year,2017,0,25870,25 870,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2017,0,2680,2680,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2017,0,2841,2841,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2017,0,3,3,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MLI,Mali,Year,2017,0,3047741,3 047 741,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CMR,Cameroon,Year,2017,0,3108156,3 108 156,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2017,0,3261455,3 261 455,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NER,Niger,Year,2017,0,3809595,3 809 595,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HTI,Haiti,Year,2017,0,301812,301 812,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2017,0,338514,338 514,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2017,0,340909,340 909,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2017,0,373138,373 138,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BRA,Brazil,Year,2017,0,39378,39 378,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2017,0,395685,395 685,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2017,0,4548458,4 548 458,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,KEN,Kenya,Year,2017,0,4554743,4 554 743,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2017,0,41218,41 218,EN,2023-05-09T18:30:00.000Z,Europe
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2017,0,422841,422 841,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2017,0,431157,431 157,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2017,0,5923555,5 923 555,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2017,0,51090,51 090,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2017,0,51515,51 515,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2017,0,536887,536 887,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZAF,South Africa,Year,2017,0,56257,56 257,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GMB,Gambia,Year,2017,0,573093,573 093,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2017,0,589778,589 778,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,MEX,Mexico,Year,2017,0,6,6,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2017,0,603161,603 161,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NAM,Namibia,Year,2017,0,616513,616 513,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BWA,Botswana,Year,2017,0,7380,7380,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2017,0,78090,78 090,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PAN,Panama,Year,2017,0,829,829,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2017,0,87397,87 397,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2017,0,888815,888 815,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MWI,Malawi,Year,2017,0,9413944,9 413 944,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BDI,Burundi,Year,2017,0,9678610,9 678 610,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2017,0,94466,94 466,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,COL,Colombia,Year,2017,0,9648,9648,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2017,0,97782,97 782,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2017,0,97870,97 870,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,SUR,Suriname,Year,2017,0,9766,9766,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COM,Comoros,Year,2017,0,99311,99 311,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PRY,Paraguay,Year,2016,0,1,1,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,LBR,Liberia,Year,2016,0,1304021,1 304 021,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2016,0,1327187,1 327 187,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2016,0,1330069,1 330 069,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GIN,Guinea,Year,2016,0,1423802,1 423 802,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SEN,Senegal,Year,2016,0,1513574,1 513 574,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2016,0,1537852,1 537 852,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BEN,Benin,Year,2016,0,1860904,1 860 904,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SSD,South Sudan,Year,2016,0,10751,10 751,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2016,0,11795178,11 795 178,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2016,0,114382,114 382,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2016,0,117727,117 727,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2016,0,127307,127 307,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2016,0,14922332,14 922 332,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2016,0,15633676,15 633 676,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2016,0,17249,17 249,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2016,0,17853794,17 853 794,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2016,0,18347,18 347,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,UGA,Uganda,Year,2016,0,18492939,18 492 939,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2016,0,182980,182 980,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2016,0,183360,183 360,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IND,India,Year,2016,0,19606260,19 606 260,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2016,0,2,2,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2016,0,2004313,2 004 313,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TGO,Togo,Year,2016,0,2075513,2 075 513,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2016,0,2805621,2 805 621,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,AGO,Angola,Year,2016,0,2959282,2 959 282,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2016,0,20566284,20 566 284,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HND,Honduras,Year,2016,0,20745,20 745,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2016,0,210815,210 815,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2016,0,22450,22 450,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BRA,Brazil,Year,2016,0,23273,23 273,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2016,0,251669,251 669,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2016,0,255306,255 306,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2016,0,262028,262 028,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GAB,Gabon,Year,2016,0,2738,2738,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2016,0,3063167,3 063 167,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CMR,Cameroon,Year,2016,0,3151919,3 151 919,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NER,Niger,Year,2016,0,3240780,3 240 780,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MLI,Mali,Year,2016,0,3623719,3 623 719,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NAM,Namibia,Year,2016,0,308414,308 414,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2016,0,316340,316 340,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2016,0,34570,34 570,EN,2023-05-09T18:30:00.000Z,Europe
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2016,0,365765,365 765,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HTI,Haiti,Year,2016,0,398531,398 531,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,KEN,Kenya,Year,2016,0,4540401,4 540 401,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2016,0,4584629,4 584 629,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2016,0,408055,408 055,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZAF,South Africa,Year,2016,0,42624,42 624,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2016,0,420049,420 049,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COM,Comoros,Year,2016,0,44523,44 523,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2016,0,50788,50 788,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2016,0,52432,52 432,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,COL,Colombia,Year,2016,0,53118,53 118,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,MEX,Mexico,Year,2016,0,6,6,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COG,Congo,Year,2016,0,60927,60 927,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2016,0,632443,632 443,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,GUY,Guyana,Year,2016,0,6592,6592,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2016,0,66536,66 536,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GHA,Ghana,Year,2016,0,7124845,7 124 845,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GMB,Gambia,Year,2016,0,707215,707 215,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,GTM,Guatemala,Year,2016,0,74859,74 859,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2016,0,78841,78 841,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BWA,Botswana,Year,2016,0,7806,7806,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZMB,Zambia,Year,2016,0,8502989,8 502 989,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MWI,Malawi,Year,2016,0,8661237,8 661 237,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BDI,Burundi,Year,2016,0,8971550,8 971 550,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2016,0,800,800,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2016,0,849913,849 913,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,SUR,Suriname,Year,2016,0,8498,8498,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TCD,Chad,Year,2016,0,861561,861 561,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2016,0,8906,8906,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2016,0,898913,898 913,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2016,0,92109,92 109,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2016,0,95399,95 399,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,LBR,Liberia,Year,2015,0,1001194,1 001 194,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GIN,Guinea,Year,2015,0,1092523,1 092 523,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CMR,Cameroon,Year,2015,0,1166306,1 166 306,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SEN,Senegal,Year,2015,0,1384834,1 384 834,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2015,0,1638438,1 638 438,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TGO,Togo,Year,2015,0,1712233,1 712 233,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2015,0,1920489,1 920 489,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PRY,Paraguay,Year,2015,0,10,10,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2015,0,10770388,10 770 388,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2015,0,10900,10 900,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2015,0,100792,100 792,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,COL,Colombia,Year,2015,0,11983,11 983,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2015,0,12660097,12 660 097,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GAB,Gabon,Year,2015,0,12761,12 761,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,UGA,Uganda,Year,2015,0,12983382,12 983 382,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2015,0,121464,121 464,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BWA,Botswana,Year,2015,0,1284,1284,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2015,0,138026,138 026,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2015,0,14739634,14 739 634,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2015,0,14900,14 900,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2015,0,150998,150 998,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,SUR,Suriname,Year,2015,0,153,153,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2015,0,16652731,16 652 731,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BRA,Brazil,Year,2015,0,16865,16 865,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2015,0,178477,178 477,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PER,Peru,Year,2015,0,18133,18 133,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IND,India,Year,2015,0,19699260,19 699 260,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,KEN,Kenya,Year,2015,0,2087003,2 087 003,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BEN,Benin,Year,2015,0,2116289,2 116 289,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2015,0,2176042,2 176 042,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2015,0,2559541,2 559 541,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NER,Niger,Year,2015,0,2830548,2 830 548,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NAM,Namibia,Year,2015,0,207612,207 612,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2015,0,259171,259 171,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SSD,South Sudan,Year,2015,0,26507,26 507,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HTI,Haiti,Year,2015,0,260944,260 944,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COM,Comoros,Year,2015,0,27911,27 911,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2015,0,281847,281 847,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2015,0,283256,283 256,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2015,0,289917,289 917,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZAF,South Africa,Year,2015,0,29598,29 598,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2015,0,3,3,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,AGO,Angola,Year,2015,0,3009305,3 009 305,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MLI,Mali,Year,2015,0,3603344,3 603 344,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2015,0,342946,342 946,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2015,0,4174097,4 174 097,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2015,0,40750,40 750,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2015,0,42056,42 056,EN,2023-05-09T18:30:00.000Z,Europe
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2015,0,459332,459 332,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2015,0,46227,46 227,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2015,0,47938,47 938,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2015,0,49649,49 649,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HND,Honduras,Year,2015,0,4928,4928,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BDI,Burundi,Year,2015,0,5422959,5 422 959,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2015,0,60253,60 253,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2015,0,609442,609 442,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2015,0,61348,61 348,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GMB,Gambia,Year,2015,0,626423,626 423,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,GTM,Guatemala,Year,2015,0,6500,6500,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2015,0,6620,6620,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,MEX,Mexico,Year,2015,0,7,7,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MWI,Malawi,Year,2015,0,7030084,7 030 084,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZMB,Zambia,Year,2015,0,7207500,7 207 500,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GHA,Ghana,Year,2015,0,7901575,7 901 575,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2015,0,72407,72 407,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2015,0,724303,724 303,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2015,0,748563,748 563,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2015,0,7659,7659,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2015,0,8290188,8 290 188,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2015,0,90132,90 132,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2015,0,90818,90 818,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2015,0,91576,91 576,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TCD,Chad,Year,2015,0,937775,937 775,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2014,0,1102567,1 102 567,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TCD,Chad,Year,2014,0,1137455,1 137 455,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CMR,Cameroon,Year,2014,0,1254293,1 254 293,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2014,0,1415837,1 415 837,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2014,0,1453689,1 453 689,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TGO,Togo,Year,2014,0,1633891,1 633 891,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,AGO,Angola,Year,2014,0,1855400,1 855 400,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BEN,Benin,Year,2014,0,1962591,1 962 591,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2014,0,10191825,10 191 825,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2014,0,10271075,10 271 075,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SSD,South Sudan,Year,2014,0,102538,102 538,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2014,0,11530981,11 530 981,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GAB,Gabon,Year,2014,0,11812,11 812,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BRA,Brazil,Year,2014,0,11820,11 820,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2014,0,117635,117 635,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HTI,Haiti,Year,2014,0,126637,126 637,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IND,India,Year,2014,0,14562000,14 562 000,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2014,0,141519,141 519,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HND,Honduras,Year,2014,0,1427,1427,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,SUR,Suriname,Year,2014,0,15489,15 489,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2014,0,155919,155 919,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2014,0,160661,160 661,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PER,Peru,Year,2014,0,1634,1634,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2014,0,168004,168 004,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2014,0,17746946,17 746 946,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NAM,Namibia,Year,2014,0,185078,185 078,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COG,Congo,Year,2014,0,19746,19 746,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2014,0,2056722,2 056 722,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MLI,Mali,Year,2014,0,2692773,2 692 773,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NER,Niger,Year,2014,0,2944035,2 944 035,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2014,0,211662,211 662,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2014,0,218130,218 130,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2014,0,22198,22 198,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZAF,South Africa,Year,2014,0,240622,240 622,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2014,0,249461,249 461,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2014,0,26658,26 658,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BDI,Burundi,Year,2014,0,3098808,3 098 808,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GHA,Ghana,Year,2014,0,3610453,3 610 453,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2014,0,306310,306 310,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GMB,Gambia,Year,2014,0,317313,317 313,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2014,0,369208,369 208,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2014,0,4904066,4 904 066,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2014,0,416483,416 483,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2014,0,47500,47 500,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2014,0,48444,48 444,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MWI,Malawi,Year,2014,0,5344724,5 344 724,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZMB,Zambia,Year,2014,0,5964354,5 964 354,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,GTM,Guatemala,Year,2014,0,50025,50 025,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2014,0,51582,51 582,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2014,0,538678,538 678,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2014,0,54425,54 425,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2014,0,58090,58 090,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2014,0,6224055,6 224 055,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2014,0,64480,64 480,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SEN,Senegal,Year,2014,0,677832,677 832,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,UGA,Uganda,Year,2014,0,7060545,7 060 545,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2014,0,76533,76 533,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,COL,Colombia,Year,2014,0,77819,77 819,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2014,0,788281,788 281,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2014,0,804680,804 680,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2014,0,86592,86 592,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2014,0,9067,9067,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,KEN,Kenya,Year,2014,0,912217,912 217,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,LBR,Liberia,Year,2014,0,929788,929 788,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2014,0,9807,9807,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COM,Comoros,Year,2014,0,9839,9839,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2013,0,1074701,1 074 701,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,AGO,Angola,Year,2013,0,1103815,1 103 815,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2013,0,1115005,1 115 005,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,LBR,Liberia,Year,2013,0,1144405,1 144 405,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2013,0,1162083,1 162 083,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BEN,Benin,Year,2013,0,1173271,1 173 271,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2013,0,1256762,1 256 762,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GHA,Ghana,Year,2013,0,1496746,1 496 746,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2013,0,1800000,1 800 000,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NER,Niger,Year,2013,0,1824610,1 824 610,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GAB,Gabon,Year,2013,0,10132,10 132,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2013,0,10789,10 789,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2013,0,102079,102 079,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2013,0,121991,121 991,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2013,0,128259,128 259,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2013,0,13266,13 266,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2013,0,133348,133 348,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IND,India,Year,2013,0,14782104,14 782 104,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2013,0,149946,149 946,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2013,0,157457,157 457,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2013,0,17497,17 497,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2013,0,19029,19 029,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BRA,Brazil,Year,2013,0,19500,19 500,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2013,0,191569,191 569,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MLI,Mali,Year,2013,0,2072435,2 072 435,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2013,0,2377254,2 377 254,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BDI,Burundi,Year,2013,0,2995339,2 995 339,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2013,0,20286,20 286,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2013,0,201708,201 708,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COM,Comoros,Year,2013,0,21546,21 546,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HND,Honduras,Year,2013,0,237,237,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZAF,South Africa,Year,2013,0,239705,239 705,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2013,0,26216,26 216,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2013,0,260181,260 181,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MWI,Malawi,Year,2013,0,3029020,3 029 020,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2013,0,3405647,3 405 647,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NAM,Namibia,Year,2013,0,32495,32 495,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2013,0,32989,32 989,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2013,0,34768,34 768,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2013,0,35257,35 257,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2013,0,3576,3576,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2013,0,36833,36 833,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2013,0,39281,39 281,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2013,0,4296350,4 296 350,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2013,0,412530,412 530,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,COL,Colombia,Year,2013,0,42723,42 723,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2013,0,5526908,5 526 908,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2013,0,519446,519 446,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HTI,Haiti,Year,2013,0,5586,5586,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2013,0,6102683,6 102 683,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,SUR,Suriname,Year,2013,0,6043,6043,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GMB,Gambia,Year,2013,0,614128,614 128,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TCD,Chad,Year,2013,0,621469,621 469,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CMR,Cameroon,Year,2013,0,653189,653 189,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2013,0,67464,67 464,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2013,0,7194960,7 194 960,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,UGA,Uganda,Year,2013,0,7387826,7 387 826,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2013,0,704978,704 978,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2013,0,71000,71 000,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,KEN,Kenya,Year,2013,0,719849,719 849,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SEN,Senegal,Year,2013,0,734495,734 495,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PER,Peru,Year,2013,0,858,858,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2013,0,97495,97 495,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TGO,Togo,Year,2013,0,990266,990 266,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TGO,Togo,Year,2012,0,1010759,1 010 759,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,AGO,Angola,Year,2012,0,1069483,1 069 483,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2012,0,1091615,1 091 615,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2012,0,1158831,1 158 831,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BDI,Burundi,Year,2012,0,1177132,1 177 132,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,LBR,Liberia,Year,2012,0,1276521,1 276 521,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GHA,Ghana,Year,2012,0,1438284,1 438 284,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2012,0,1572785,1 572 785,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NER,Niger,Year,2012,0,1967117,1 967 117,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2012,0,1975972,1 975 972,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2012,0,10960,10 960,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2012,0,105521,105 521,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2012,0,117180,117 180,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2012,0,118919,118 919,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IND,India,Year,2012,0,13125480,13 125 480,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2012,0,13987,13 987,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2012,0,141567,141 567,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2012,0,144189,144 189,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2012,0,150218,150 218,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2012,0,16444,16 444,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,KEN,Kenya,Year,2012,0,164424,164 424,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CMR,Cameroon,Year,2012,0,186784,186 784,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2012,0,190593,190 593,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2012,0,2000700,2 000 700,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2012,0,2276298,2 276 298,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,UGA,Uganda,Year,2012,0,2449526,2 449 526,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MWI,Malawi,Year,2012,0,2763986,2 763 986,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2012,0,2898052,2 898 052,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2012,0,21786,21 786,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2012,0,215055,215 055,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2012,0,228857,228 857,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2012,0,23124,23 124,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BRA,Brazil,Year,2012,0,23566,23 566,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2012,0,27042,27 042,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COM,Comoros,Year,2012,0,27714,27 714,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2012,0,3327071,3 327 071,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZAF,South Africa,Year,2012,0,30053,30 053,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2012,0,3293,3293,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2012,0,33758,33 758,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2012,0,37273,37 273,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2012,0,4516273,4 516 273,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HND,Honduras,Year,2012,0,4000,4000,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2012,0,410949,410 949,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GAB,Gabon,Year,2012,0,4129,4129,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HTI,Haiti,Year,2012,0,46,46,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,SUR,Suriname,Year,2012,0,4670,4670,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2012,0,471586,471 586,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2012,0,514725,514 725,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2012,0,55792,55 792,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SEN,Senegal,Year,2012,0,555724,555 724,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PER,Peru,Year,2012,0,562,562,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2012,0,6826,6826,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,COL,Colombia,Year,2012,0,70168,70 168,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GMB,Gambia,Year,2012,0,705862,705 862,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2012,0,727174,727 174,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BEN,Benin,Year,2012,0,825005,825 005,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2012,0,8905,8905,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2012,0,90775,90 775,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2012,0,97047,97 047,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2012,0,974216,974 216,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,SLV,El Salvador,Year,2011,0,1,1,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,LBR,Liberia,Year,2011,0,1601259,1 601 259,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NER,Niger,Year,2011,0,1622013,1 622 013,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2011,0,1628092,1 628 092,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IND,India,Year,2011,0,10500384,10 500 384,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,SUR,Suriname,Year,2011,0,1025,1025,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2011,0,108110,108 110,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TCD,Chad,Year,2011,0,114122,114 122,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2011,0,119849,119 849,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2011,0,127272,127 272,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GIN,Guinea,Year,2011,0,139066,139 066,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2011,0,139531,139 531,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2011,0,14201,14 201,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CMR,Cameroon,Year,2011,0,141686,141 686,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BRA,Brazil,Year,2011,0,1486,1486,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BWA,Botswana,Year,2011,0,167,167,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2011,0,17457,17 457,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2011,0,17883,17 883,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BDI,Burundi,Year,2011,0,188476,188 476,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,UGA,Uganda,Year,2011,0,194819,194 819,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2011,0,2222380,2 222 380,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2011,0,2912088,2 912 088,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2011,0,2966853,2 966 853,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COM,Comoros,Year,2011,0,20226,20 226,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2011,0,200111,200 111,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZAF,South Africa,Year,2011,0,204047,204 047,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,COL,Colombia,Year,2011,0,21171,21 171,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2011,0,242526,242 526,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2011,0,25353,25 353,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2011,0,25570,25 570,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2011,0,250709,250 709,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2011,0,2540,2540,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2011,0,26508,26 508,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2011,0,27391,27 391,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2011,0,270080,270 080,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2011,0,2899,2899,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2011,0,33924,33 924,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,GUY,Guyana,Year,2011,0,35,35,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2011,0,35236,35 236,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TGO,Togo,Year,2011,0,390611,390 611,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HND,Honduras,Year,2011,0,4000,4000,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2011,0,450281,450 281,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2011,0,470007,470 007,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BEN,Benin,Year,2011,0,475986,475 986,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NAM,Namibia,Year,2011,0,48599,48 599,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2011,0,491373,491 373,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2011,0,518709,518 709,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2011,0,56150,56 150,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SEN,Senegal,Year,2011,0,560898,560 898,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PER,Peru,Year,2011,0,58,58,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MWI,Malawi,Year,2011,0,580708,580 708,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2011,0,739572,739 572,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2011,0,7390,7390,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2011,0,77831,77 831,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GHA,Ghana,Year,2011,0,781892,781 892,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2011,0,795618,795 618,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2011,0,7991,7991,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,AGO,Angola,Year,2011,0,833753,833 753,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2011,0,886994,886 994,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2011,0,96670,96 670,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MLI,Mali,Year,2011,0,974558,974 558,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BRA,Brazil,Year,2010,0,1,1,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TGO,Togo,Year,2010,0,1134779,1 134 779,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MLI,Mali,Year,2010,0,1399921,1 399 921,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2010,0,1609455,1 609 455,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2010,0,1653300,1 653 300,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IND,India,Year,2010,0,10600000,10 600 000,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GMB,Gambia,Year,2010,0,123564,123 564,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2010,0,127917,127 917,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2010,0,13211,13 211,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2010,0,136123,136 123,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,SUR,Suriname,Year,2010,0,1369,1369,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2010,0,14816,14 816,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HND,Honduras,Year,2010,0,1500,1500,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2010,0,152936,152 936,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2010,0,16772,16 772,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2010,0,17300,17 300,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2010,0,17592,17 592,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2010,0,17887,17 887,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2010,0,174693,174 693,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2010,0,18500,18 500,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2010,0,2287536,2 287 536,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2010,0,20820,20 820,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,GTM,Guatemala,Year,2010,0,2000,2000,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2010,0,203388,203 388,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2010,0,2299,2299,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PER,Peru,Year,2010,0,23,23,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2010,0,235536,235 536,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GHA,Ghana,Year,2010,0,247278,247 278,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2010,0,255734,255 734,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2010,0,26585,26 585,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BDI,Burundi,Year,2010,0,273324,273 324,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZAF,South Africa,Year,2010,0,276669,276 669,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2010,0,279724,279 724,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TCD,Chad,Year,2010,0,309927,309 927,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2010,0,45924,45 924,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2010,0,513032,513 032,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COM,Comoros,Year,2010,0,5249,5249,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2010,0,54728,54 728,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2010,0,56455,56 455,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2010,0,604114,604 114,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SEN,Senegal,Year,2010,0,634210,634 210,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,AGO,Angola,Year,2010,0,639476,639 476,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NER,Niger,Year,2010,0,7476672,7 476 672,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2010,0,7017,7017,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2010,0,729878,729 878,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2010,0,7394,7394,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,ECU,Ecuador,Year,2010,0,7800,7800,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GAB,Gabon,Year,2010,0,7887,7887,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2010,0,81997,81 997,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2010,0,85643,85 643,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2010,0,940985,940 985,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2010,0,97289,97 289,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,LBR,Liberia,Year,2010,0,998043,998 043,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2010,0,9989,9989,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BWA,Botswana,Year,2009,0,1053,1053,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2009,0,121248,121 248,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2009,0,122133,122 133,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2009,0,132530,132 530,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2009,0,14111,14 111,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,SUR,Suriname,Year,2009,0,1438,1438,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2009,0,156639,156 639,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2009,0,18626,18 626,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2009,0,18796,18 796,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2009,0,182658,182 658,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GIN,Guinea,Year,2009,0,20866,20 866,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,GTM,Guatemala,Year,2009,0,2000,2000,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2009,0,21913,21 913,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2009,0,215670,215 670,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2009,0,243521,243 521,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2009,0,25150,25 150,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2009,1,262877,262 877,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NER,Niger,Year,2009,0,312802,312 802,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2009,0,33087,33 087,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2009,0,3773,3773,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HND,Honduras,Year,2009,0,4000,4000,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2009,0,4092,4092,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2009,0,4338,4338,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2009,0,44647,44 647,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SEN,Senegal,Year,2009,0,442576,442 576,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GHA,Ghana,Year,2009,0,468449,468 449,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BDI,Burundi,Year,2009,0,472341,472 341,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,ECU,Ecuador,Year,2009,0,4992,4992,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TGO,Togo,Year,2009,0,541752,541 752,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2009,0,544336,544 336,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2009,0,599216,599 216,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2009,0,60649,60 649,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2009,0,610035,610 035,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2009,0,6228,6228,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,LBR,Liberia,Year,2009,0,676569,676 569,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2009,0,68437,68 437,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,COL,Colombia,Year,2009,0,8362,8362,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IND,India,Year,2009,0,9100000,9 100 000,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BRA,Brazil,Year,2009,0,90275,90 275,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2009,0,9000,9000,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,AGO,Angola,Year,2009,0,906916,906 916,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2009,0,981,981,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2008,0,10000,10 000,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2008,0,106001,106 001,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2008,0,108918,108 918,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2008,0,140478,140 478,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GHA,Ghana,Year,2008,0,143879,143 879,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2008,0,173311,173 311,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,SUR,Suriname,Year,2008,0,1774,1774,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2008,0,19077,19 077,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PRY,Paraguay,Year,2008,0,1997,1997,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2008,0,2000,2000,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,GTM,Guatemala,Year,2008,0,2000,2000,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,COL,Colombia,Year,2008,0,22754,22 754,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2008,0,2572,2572,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2008,0,264897,264 897,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,ECU,Ecuador,Year,2008,0,2758,2758,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2008,0,299000,299 000,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2008,0,30134,30 134,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BDI,Burundi,Year,2008,0,330915,330 915,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2008,0,40199,40 199,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2008,0,4148,4148,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2008,0,428,428,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SEN,Senegal,Year,2008,0,434973,434 973,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2008,0,449000,449 000,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TGO,Togo,Year,2008,0,453593,453 593,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2008,0,5000,5000,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2008,0,5015,5015,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,AGO,Angola,Year,2008,0,541291,541 291,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2008,0,543941,543 941,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2008,0,59132,59 132,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2008,0,5955,5955,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,LBR,Liberia,Year,2008,0,635855,635 855,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,PER,Peru,Year,2008,0,64953,64 953,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2008,0,6566,6566,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2008,0,72087,72 087,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2008,0,720,720,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NER,Niger,Year,2008,0,799632,799 632,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IND,India,Year,2008,0,9000000,9 000 000,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BWA,Botswana,Year,2008,0,941,941,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2008,0,97260,97 260,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NER,Niger,Year,2007,0,1339039,1 339 039,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2007,0,107293,107 293,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BWA,Botswana,Year,2007,0,113,113,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2007,0,1500,1500,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2007,0,1500,1500,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2007,0,16173,16 173,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2007,0,175595,175 595,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,TGO,Togo,Year,2007,0,188225,188 225,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GIN,Guinea,Year,2007,0,21150,21 150,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,SUR,Suriname,Year,2007,0,2224,2224,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2007,0,2275,2275,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,COL,Colombia,Year,2007,0,25000,25 000,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,GTM,Guatemala,Year,2007,0,3000,3000,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2007,0,303,303,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2007,0,3199,3199,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2007,0,32027,32 027,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BDI,Burundi,Year,2007,0,406738,406 738,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2007,0,4839,4839,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2007,0,499725,499 725,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,AGO,Angola,Year,2007,0,506756,506 756,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,LBR,Liberia,Year,2007,0,508987,508 987,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2007,0,655,655,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2007,0,7520,7520,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2007,0,76314,76 314,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2007,0,7643,7643,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2007,0,78294,78 294,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IND,India,Year,2007,0,8500000,8 500 000,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2006,0,10756,10 756,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,KEN,Kenya,Year,2006,0,100000,100 000,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,AGO,Angola,Year,2006,0,106801,106 801,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2006,0,11563,11 563,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NER,Niger,Year,2006,0,12567,12 567,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2006,0,130000,130 000,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,GIN,Guinea,Year,2006,0,16554,16 554,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2006,0,1750,1750,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2006,0,18171,18 171,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2006,0,195415,195 415,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HND,Honduras,Year,2006,0,2500,2500,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,BDI,Burundi,Year,2006,0,251925,251 925,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2006,0,300000,300 000,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2006,0,46614,46 614,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2006,0,4675,4675,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2006,0,6000,6000,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,LBR,Liberia,Year,2006,0,880952,880 952,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2005,1,10824,10 824,EN,2023-05-09T18:30:00.000Z,Eastern Mediterranean
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2005,0,12125,12 125,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,NER,Niger,Year,2005,0,21230,21 230,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,HND,Honduras,Year,2005,0,2500,2500,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2005,0,310391,310 391,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2005,0,3452,3452,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AFR,Africa,Country,LBR,Liberia,Year,2005,0,57325,57 325,EN,2023-05-09T18:30:00.000Z,Africa
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2005,0,6000,6000,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2005,0,633,633,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2004,0,137134,137 134,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2004,0,15000,15 000,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2004,0,5000,5000,EN,2023-05-09T18:30:00.000Z,Americas
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2003,0,120099,120 099,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2003,0,2668,2668,EN,2023-05-09T18:30:00.000Z,South-East Asia
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2002,0,42954,42 954,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2002,0,94000,94 000,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2001,0,10000,10 000,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2001,0,27928,27 928,EN,2023-05-09T18:30:00.000Z,Western Pacific
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2000,0,18167,18 167,EN,2023-05-09T18:30:00.000Z,Western Pacific
