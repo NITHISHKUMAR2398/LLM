@@ -86,7 +86,7 @@ class GenerateMCQs:
         #table_data_str = df.to_string(index=False)
 
         prompt = f"Given the dataframe df, thoroughly analyze the data to create five meticulously crafted multiple-choice questions (MCQ), each with four options, out of which only one is the correct answer.\n\
-                    Exclude columns deemed least important from consideration in MCQ generation.\n\
+                    Exclude columns deemed least important from consideration and focus solely on the essential columns for MCQ generation..\n\
                     Utilize the provided MCQ format for structuring the output as shown below:\n\
                     Question 1:<br>\n\
                     Which country has the highest hourly wage? <br>\n\
@@ -95,6 +95,13 @@ class GenerateMCQs:
                     C) Switzerland<br>\n\
                     D) None of the above<br>\n\
                     Answer : Switzerland (Switzerland holds the highest hourly wage in this dataset, standing at 17.50.)<br>\n\
+                    Question 2:<br>\n\
+                    What is the capital of India? <br>\n\
+                    A) Mumbai<br>\n\
+                    B) New Delhi<br>\n\
+                    C) Bangalore<br>\n\
+                    D) Kolkata<br>\n\
+                    Answer: B) New Delhi (New Delhi is the capital of India.)<br>\n\
                     {df}"
         
         data = {
