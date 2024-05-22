@@ -64,7 +64,7 @@ class GenerateMCQs:
 
     def generate_mcqs(self, df):
         prompt = f"Given the dataframe df, thoroughly analyze the data to create five meticulously crafted multiple-choice questions (MCQ), each with four options, out of which only one is the correct answer.\n\
-                    Exclude columns deemed least important from consideration and focus solely on the essential columns for MCQ generation..\n\
+                    Exclude columns deemed least important from consideration and focus solely on the important columns for MCQ generation..\n\
                     Utilize the provided MCQ format for structuring the output as shown below:\n\
                     Question 1:<br>\n\
                     Which country has the highest hourly wage? <br>\n\
@@ -99,7 +99,7 @@ extract_tasks_obj = ExtractTasks()
 table_to_text_obj = TableToText()
 generate_mcqs_obj = GenerateMCQs()
 
-st.title("Data Analysis Toolkit")
+st.title("Task Extraction and MCQ generation")
 
 # Sample conversation for action task extraction
 sample_conversation = st.text_area("Enter conversation for action task extraction:", "")
