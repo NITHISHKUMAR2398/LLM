@@ -1,54 +1,39 @@
-import main as text
-from flask import Flask, jsonify
+import streamlit as st
 import requests
 import pandas as pd
-import os
 import json
 from config import Config
-
-app = Flask(__name__)
 
 class ExtractTasks:
     def __init__(self):
         self.url_generate = Config.URL_GENERATE
 
-    def extract_tasks(self):
-        convo = text.processed_text
-
+    def extract_tasks(self, convo):
         data = {
-            "model": "mistral",  # The model name (presumably for generating responses)
-            "stream": False,  # Indicates whether to stream the response (set to False)
+            "model": "mistral",
+            "stream": False,
             "prompt": f"Extract action tasks from the given conversation and add html break tags for each task:\n\
                         Based on the conversation, here are the action tasks that can be extracted:\n\
                         please use the below tasks as an example for formatting the output and provide it in similar way:<br>\n\
-                        1: Call Dr.Karthikeyan about the chart to be discussed.\n\
-                        2: Check for documentaries on oral health in Netflix.\n\
-                        3: Look for Oceania region in addition to Asian countries for further research.\n\
-                        4: Prepare things by next Tuesday.\n\
+                        1: Call Dr.Karthikeyan about the chart to be discussed.<br>\n\
+                        2: Check for documentaries on oral health in Netflix.<br>\n\
+                        3: Look for Oceania region in addition to Asian countries for further research.<br>\n\
+                        4: Prepare things by next Tuesday.<br>\n\
                         {convo}"
-
-                            
         }
 
         response = requests.post(self.url_generate, json=data)
         
         if response.status_code == 200:
-            print(json.loads(response.text)['response'])
             return json.loads(response.text)['response']
         else:
-            # Return an error message if the request failed
-            return jsonify({"error": f"Request failed with status code {response.status_code}"})
-        
-    
+            return f"Request failed with status code {response.status_code}"
+
 class TableToText:
     def __init__(self):
         self.url_table_to_text = Config.URL_GENERATE
 
-    def table_to_text(self):
-        excel_file_path = Config.EXCEL_FILE_PATH
-        df = pd.read_csv(excel_file_path)
-        # table_data_str = df.to_string(index=False, header=True)
-
+    def table_to_text(self, df):
         prompt =  f"Given the dataframe df, conduct a thorough analysis of the data to provide a detailed description of the dataset within a 300-word limit.\n\
                    Key points to include based on the table data:\n\
                    1. Offer a comprehensive overview of the table's structure, including the number of rows and columns, data types, and any missing values.\n\
@@ -60,9 +45,6 @@ class TableToText:
                    7. Provide recommendations for further exploration or research based on the analysis, suggesting potential avenues for enhancing understanding or addressing unanswered questions.\n\
                       \n\{df}"    
 
-
-            
-        
         data = {
             "model": "mistral",
             "prompt": prompt,
@@ -74,17 +56,13 @@ class TableToText:
         if response.status_code == 200:
             return json.loads(response.text)['response']
         else:
-            return jsonify({"error": f"Request failed with status code {response.status_code}"})
+            return f"Request failed with status code {response.status_code}"
 
 class GenerateMCQs:
     def __init__(self):
         self.url_generate = Config.URL_GENERATE
 
-    def generate_mcqs(self):
-        excel_file_path = Config.EXCEL_FILE_PATH
-        df = pd.read_csv(excel_file_path)
-        #table_data_str = df.to_string(index=False)
-
+    def generate_mcqs(self, df):
         prompt = f"Given the dataframe df, thoroughly analyze the data to create five meticulously crafted multiple-choice questions (MCQ), each with four options, out of which only one is the correct answer.\n\
                     Exclude columns deemed least important from consideration and focus solely on the essential columns for MCQ generation..\n\
                     Utilize the provided MCQ format for structuring the output as shown below:\n\
@@ -112,28 +90,37 @@ class GenerateMCQs:
         response = requests.post(self.url_generate, json=data)
 
         if response.status_code == 200:
-            print(json.loads(response.text)['response'])
-            
-            
             return json.loads(response.text)['response']
         else:
-            return jsonify({"error": f"Request failed with status code {response.status_code}"})
+            return f"Request failed with status code {response.status_code}"
 
+# Initialize objects
 extract_tasks_obj = ExtractTasks()
 table_to_text_obj = TableToText()
 generate_mcqs_obj = GenerateMCQs()
 
-@app.route('/extract_tasks', methods=['GET'])
-def extract_tasks():
-    return extract_tasks_obj.extract_tasks()
+st.title("Data Analysis Toolkit")
 
-@app.route('/table_to_text', methods=['GET'])
-def table_to_text():
-    return table_to_text_obj.table_to_text()
+# Sample conversation for action task extraction
+sample_conversation = st.text_area("Enter conversation for action task extraction:", "")
 
-@app.route('/generate_mcqs', methods=['GET'])
-def generate_mcqs():
-    return generate_mcqs_obj.generate_mcqs()
+# Button to extract action tasks
+if st.button("Extract Action Tasks"):
+    if sample_conversation:
+        action_tasks = extract_tasks_obj.extract_tasks(sample_conversation)
+        st.markdown(action_tasks, unsafe_allow_html=True)
+    else:
+        st.error("Please enter a conversation.")
 
-if __name__ == '__main__':
-    app.run(debug=True, port=5001)
+# Load Excel file for data analysis
+excel_file_path = Config.EXCEL_FILE_PATH
+df = pd.read_csv(excel_file_path)
+st.dataframe(df.head())
+
+# Button to analyze table data
+if st.button("Generate MCQ's"):
+    #text_analysis = table_to_text_obj.table_to_text(df)
+    #st.markdown(text_analysis, unsafe_allow_html=True)
+
+    mcqs_generation = generate_mcqs_obj.generate_mcqs(df)
+    st.markdown(mcqs_generation, unsafe_allow_html=True)
