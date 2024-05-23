@@ -3,3 +3,14 @@ transformers
 torch
 mistral
 streamlit
+torch
+transformers
+sense2vec
+streamlit
+nltk
+flashtext
+sense2vec
+sentence-transformers
+strsim
+numpy
+scikit-learn
